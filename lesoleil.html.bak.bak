@@ -1,0 +1,29 @@
+ <!DOCTYPE html>
+
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="style.css" />
+		<title>Le soleil</title>
+	</head>
+	
+	<body background="fondOrange.webp">
+
+		<h4> Le soleil c'est quoi ?? </h4>	
+		<ol>
+			<li>Définition: <ul> <li id="jsp"> Le Soleil est l’étoile du Système solaire, plus précisément c'est une grosse boule de gaz qui du fait de la gravité vas se comprimer sur elle-même et ainsi produire de la chaleur et donc de la lumière. </li></ul> </li>
+			<li>Quel est la température du soleil?<ul> <li id="jsp"> Le soleil a une température de 15 millions de degrès au coeur et 6 000° environ à la surface. </li></ul></li>
+			<li>Son âge?</li><ul> <li id="jsp"> Le soleil est âgé de 4.6 milliards d'année et il devrait continuer de vivre pendant encore 5 milliards d'année :) </li></ul>
+			<li>Quel distance de la terre?</li><ul><li id="jsp"> La distance entre la terre est le soleil est d'environ 147 000 000 km.</li></ul>
+		</ol>
+		
+		<div >
+		<table>
+			<tr> 
+				<td> <a href="soleil.jpg" ><img src="soleilmini.jpg" alt="image" /></a><td/>
+			<tr/>
+			<tr>
+				<td class="tbl"> <a href="Espace.txt.bak"> Accueil</a> <td/>
+			<tr/>
+		<table/>
+	<div/>

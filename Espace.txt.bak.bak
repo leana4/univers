@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="style.css" />
+		<title>Au coeur de l'univers</title>
+	</head>
+	
+	<body background="Univers.jpg">
+	
+		<h1> A la découverte de l'univers</h1>
+		<h2> Notre soleil </h2>
+		<p> Le soleil c'est quoi?<br>  
+		<a href="soleil.jpg" ><img src="soleilmini.jpg" alt="image" /></a> <br />
+		<a href="lesoleil.html.bak">Le soleil c'est quoi?</a>
+	</p>
+	<div class="tableau">
+		<table>
+			<tr> 
+				<td> Le big bang c'est quoi? <td/>	<td> <a href="BigBang.html" ><img src="BigBangmini.jpg" alt="image" /></a> <td/>
+			<tr/>
+			<tr>
+				<td> Le lien entre le nom des planètes et la mythologie <td/> <td> <a href="LesPlanetes.html"> Cliquer ici!</a> <td/>
+			<tr/>
+		<table/>
+	<div/>
+	
+</html>

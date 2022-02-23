@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="style.css" />
+		<title>Planètes</title>
+	</head>
+	<body background="3.gif">
+	<h6> <center> <u>Les planètes et leur lien avec la mythologie grecque et romaine </u></h6>
+<div>
+		<table>
+			<tr> 
+				<td> <h6> <ol> 
+				<li> Mercure <ul> <li> Mercure est le Dieu du commerce en mythologie romaine, également assimilé à Hermes, Dieu grecque il devient également le Dieu des voleurs, des voyages. Son nom est lié au mot latin merx " marchandise, commerce, salaire. </li> </ul> </li>
+				<li> Vénus  <ul> <li>Vénus est la déesse de l'amour, de la séduction et de la beauté féminine dans la mythologie romaine. Elle est assimilée à la déesse grecque Aphrodite.</li></ul> </li> 
+				<li> Terre  <ul> <li>La Terre est assimilé à la déesse grecque Gaïa, la déesse de la terre et la déesse mère.</li></ul> </li> 
+				<li> Mars  <ul> <li>Dieu de la guerre en mythologie romaine, il est assimilé au Dieu grecque Arès, un des douzes Dieux principaux, Dieu de la violence et de la jeunesse.</li></ul> </li>
+				<li> Jupiter  <ul> <li>Jupiter est le Dieu romain le plus important, Dieu de la foudre et du tonnere il est assimilé eu Dieu grecque Zeus, Dieu des Dieux et du ciel (foudre, orage...).</li></ul> </li>
+				<li> Saturne <ul> <li>Saturne est l'un des plus anciens Dieu romain, Dieu de l'agriculture il est assimilé à Cronos Dieu du temps et de la mort.</li></ul> </li>
+				<li> Uranus <ul> <li>Uranus est le Dieu romain du ciel et de l'air. Il est assimilé à Uranos, Dieu grecque du ciel.</li></ul> </li>
+				<li> Neptune <ul> <li>Dieu des eaux vives et des sources il est assimilé à Poséidon, Dieu des mers et des océans.</li></ul> </li>
+				</ol> </h6></td> 
+			</tr>
+		
+		<table/>
+	<div/>
+
+	
+	
+</html>

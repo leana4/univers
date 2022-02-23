@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="style.css" />
+		<title>Big Bang</title>
+	</head>
+	<body background="2.gif">
+	<h5> <ol>
+			<li> Le BigBang <ul> <li>Le bigBang est la théorie<br>de la naissance de l'univers<br>il y a aproximativement 13.8 milliards d'années </li></ul> </li>
+			<ul> <li> Cette théorie du XXème siécle est faite grâce<br>à Albert Einstein et des cosmologistes, depuis ce fameux jour<br>l'univers est en expansion permanante</li></ul> </li>
+			<ul> <li>l'interaction forte, la force faible, la gravitation et la force<br>électromagnétique sont les 4 forces fondamentales que l'ont<br>connait, au moment du BigBang<br>les conditions étant extrèmes on pense que les 4 forces<br>n'en faisaient qu'une et que au fur et à mesure du<br>refroidissement du l'univers elles se sont séparées.  </li></ul> </li>
+
+		</ol></h5>
+		<div class="Tableau" >
+			<table>
+				<tr> 
+					<td> <a href="BigBang.jpg" ><img src="BigBang-min.jpg" alt="image"  /></a><td/>
+				<tr/>
+			<table/>
+		<div/>
+		
+	<a class="tbl" href="Espace.txt.bak"> Accueil</a> 
+	
+</html>
